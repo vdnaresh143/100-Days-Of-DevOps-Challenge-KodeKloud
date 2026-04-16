@@ -261,9 +261,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Connect With Me
 
-- **GitHub**: [@imshakil](https://github.com/imshakil)
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/imshakil)
-- **Medium**: [@imshakil](https://medium.com/@imshakil)
+- **GitHub**: [@vdnaresh143](https://github.com/vdnaresh143)
+- **LinkedIn**: [Connect with me](https://linkedin.com/in/durganaresh1742)
 
 ---
 
