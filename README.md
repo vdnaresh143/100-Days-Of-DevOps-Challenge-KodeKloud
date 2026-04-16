@@ -38,7 +38,6 @@ This repository contains comprehensive solutions and detailed explanations for t
 
 **Successfully completed the 100 Days of DevOps Challenge!**
 
-![certificate of completion](./screenshots/certificate-mh.jpg)
 
 ### Learning Modules
 
