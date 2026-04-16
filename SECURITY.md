@@ -13,7 +13,7 @@ If you discover a security vulnerability, please report it responsibly:
 
 ### 🔒 Private Disclosure
 
-- **Email**: [security@imshakil.33mail.com](mailto:security@imshakil.33mail.com)
+- **Email**: 
 - **Subject**: "Security Issue - kkDevOps Challenge"
 - **Do NOT** create public issues for security vulnerabilities
 
